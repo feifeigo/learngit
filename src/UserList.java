@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.*;
-
+//userlist
 public class UserList {
 //    private static Logger logger = LoggerFactory.getLogger(UserList.class);
     private float alpha = 0.75f;
